@@ -1,0 +1,2 @@
+# serverTester
+use python script
